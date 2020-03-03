@@ -1,4 +1,4 @@
-# node-plantuml
+# node-plantuml-vizjs
 
 A Node.js module and CLI for running [PlantUML](http://plantuml.sourceforge.net/).
 
