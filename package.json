@@ -1,5 +1,5 @@
 {
-  "name": "node-plantuml-vizjs",
+  "name": "node-plantuml-include-vizjs",
   "version": "0.1.0",
   "plantumlVersion": "1.2019.6",
   "description": "A Node.js module and CLI for running PlantUML with vizjs packaged",
